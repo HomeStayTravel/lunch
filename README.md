@@ -6,5 +6,5 @@ Friday, May 17th 2013: ?????
 
 History:
 
-Friday, May 10th 2013: Zaytoon
-Friday, May 3rd 2013: Wagamama
+* Friday, May 10th 2013: Zaytoon
+* Friday, May 3rd 2013: Wagamama
